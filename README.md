@@ -44,7 +44,7 @@ Production estimates are divided into **"ART Units"** to enable fractional owner
 
 ### 3️⃣ Automated Royalties | الأتمتة المالية
 The **0.001% fee** is automatically claimed and routed to the inventor’s wallet in every deployment or secondary sale.
-تحصيل رسوم **0.001%** برمجياً وتوجيهها إلى محفظة المبتكر تلقائياً عند كل عملية.
+تحصيل رسوم **0.001%** برمجياً وتوجيهها إلى محفظة المبتكر تلقائياً للكمية المستخدمة للبروتوكول .
 
 ---
 
