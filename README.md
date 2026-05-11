@@ -18,7 +18,7 @@
 
 ### 💰 Royalty Structure
 - **Global IP Royalty:** `0.001%` (Hardcoded in AAS-Standard).
-- 
+  
 - **Royalty Wallet:**  
   `0x8B97416F3673EdAE23E944c11D90E0e6EF19E19C`
 
