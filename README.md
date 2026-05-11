@@ -46,7 +46,7 @@ The **0.001% fee** is automatically claimed and routed to the inventor’s walle
 | **Repository Access** | **Visual Protocol Identity** |
 | :---: | :---: |
 | [**🔗 Open Repository**]
-([https://github.com](https://github.com/awsanadelabdulbariahmedsultan-art/YNEB-AAS-Protocol)) | [![AAS Logo](AAS%20Protocol.png)](https://github.com) |
+([(https://github.com/awsanadelabdulbariahmedsultan-art/YNEB-AAS-Protocol)]) | [![AAS Logo](AAS%20Protocol.png)](https://github.com) |
 | *Click link to enter* | *Click logo for details* |
 
 ---
