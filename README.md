@@ -5,7 +5,7 @@
 
 ## 📖 Abstract | الملخص
 
-| 🇺🇸 English | 🇦🇪 العربية |
+| English | العربية |
 | :--- | :--- |
 | This protocol, developed by **Eng. Awsan Adel Abdulbari Ahmed Sultan**, introduces a revolutionary method for mapping Oil Wells and Mineral assets into **NFT ART Units**. It bridges the gap between Petroleum Engineering and Blockchain technology to ensure transparency in production and financing. | هذا البروتوكول، الذي طوره **المهندس أوسان عادل عبد الباري أحمد سلطان**، يقدم طريقة ثورية لربط آبار النفط والمعادن بوحدات **NFT فنية**. يهدف المشروع للربط بين هندسة البترول وتقنية البلوكشين لضمان الشفافية في إدارة الإنتاج والتمويل. |
 
