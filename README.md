@@ -53,8 +53,11 @@ The **0.001% fee** is automatically claimed and routed to the inventor’s walle
 
 ## 📞 Contact & Verification | التواصل والتحقق
 
-*   **LinkedIn:** [Eng. Awsan Adel Abdulbari Ahmed Sultan Sultan]((https://www.linkedin.com/in/awsan-adel-abdulbari-ahmed-sultan-8aa5a1a9?utm_source=share_via&utm_content=profile&utm_medium=member))
+*   **LinkedIn:** [Eng. Awsan Adel Abdulbari Ahmed Sultan Sultan]
+*   ((https://www.linkedin.com/in/awsan-adel-abdulbari-ahmed-sultan-8aa5a1a9?utm_source=share_via&utm_content=profile&utm_medium=member))
+  
 *   **Email:** `AWSAN.SULTAN@GMAIL.COM`
+  
 *   **Phone:** `+967 777852433`
 
 ---
