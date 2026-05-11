@@ -13,10 +13,12 @@
 
 ## 🛡️ Intellectual Property (IP) | الملكية الفكرية
 **Architect & Inventor:** `Eng. Awsan Adel Abdulbari Ahmed Sultan`  
+
 **Nationality:** Yemen 🇾🇪 | **ID:** `01010305468`
 
 ### 💰 Royalty Structure
 - **Global IP Royalty:** `0.001%` (Hardcoded in AAS-Standard).
+- 
 - **Royalty Wallet:**  
   `0x8B97416F3673EdAE23E944c11D90E0e6EF19E19C`
 
@@ -43,7 +45,8 @@ The **0.001% fee** is automatically claimed and routed to the inventor’s walle
 
 | **Repository Access** | **Visual Protocol Identity** |
 | :---: | :---: |
-| [**🔗 Open Repository**](https://github.com) | [![AAS Logo](AAS%20Protocol.png)](https://github.com) |
+| [**🔗 Open Repository**]
+([https://github.com](https://github.com/awsanadelabdulbariahmedsultan-art/YNEB-AAS-Protocol)) | [![AAS Logo](AAS%20Protocol.png)](https://github.com) |
 | *Click link to enter* | *Click logo for details* |
 
 ---
