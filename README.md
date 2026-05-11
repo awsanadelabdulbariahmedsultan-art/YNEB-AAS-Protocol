@@ -13,6 +13,7 @@
 
 ## 🛡️ Intellectual Property (IP) | الملكية الفكرية
 **Architect & Inventor:** `Eng. Awsan Adel Abdulbari Ahmed Sultan`  
+
 **Nationality:** Yemen 🇾🇪 | **ID:** `01010305468`
 
 ### 💰 Royalty Structure
