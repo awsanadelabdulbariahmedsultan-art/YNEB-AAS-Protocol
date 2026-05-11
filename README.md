@@ -1,9 +1,6 @@
 # <p align="center">💎 YNEB-AAS-Protocol</p>
-<p align="center">
-  <img src="https://shields.io" alt="Standard">
-  <img src="https://shields.io" alt="Industry">
-  <img src="https://shields.io" alt="Status">
-</p>
+
+ 
 
 ---
 
