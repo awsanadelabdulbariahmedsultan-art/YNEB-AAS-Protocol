@@ -1,7 +1,7 @@
 # <p align="center">💎 YNEB-AAS-Protocol</p>
 
- <p align="center">
-  <img src="./AAS.PROTOCOL.png" alt="AAS.PROTOCOL" width="1254" height="1254"/>
+<p align="center">
+  <img src="./AAS-Protocol.png" alt="AAS-Protocol" width="1254" height="1254"/>
 </p>
 
 ---
